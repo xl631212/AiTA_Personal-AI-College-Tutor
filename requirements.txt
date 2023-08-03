@@ -2,3 +2,4 @@ streamlit
 numpy
 openai
 openai-whisper
+ffmpeg-python
