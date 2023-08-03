@@ -72,7 +72,7 @@ with col3:
     
     if uploaded_file is not None:
         file_details = {"FileName":uploaded_file.name, "FileType":uploaded_file.type, "FileSize":uploaded_file.size}
-        filepath = os.path.join('/home/ubuntu/xuying/', uploaded_file.name)
+        filepath = os.path.join(os.getcwd(), uploaded_file.name)
         
         with open(filepath, 'wb') as f:
             f.write(uploaded_file.getvalue())
