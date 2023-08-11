@@ -145,7 +145,9 @@ with col3:
 
                     text2.text_area("修改建议", value= response, height=600)
 
-
+                    os.remove(uploaded_file.name)
+                    os.remove(filepath)
+    
                 
             
 
