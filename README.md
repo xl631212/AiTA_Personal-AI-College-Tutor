@@ -1,39 +1,62 @@
-# AiTA - Personal AI Tutor for College Students 🎓
+# AiTA Demo 0.0.1
 
-AiTA (Artificial Intelligence Teaching Assistant) is a tailored AI tutor for college students, focusing on personalization and structured learning planning.
+AiTA (Artificial Intelligence Tutoring Assistant) is an innovative online tutoring system designed for college students. This system leverages advanced AI technologies to offer personalized learning experiences and support.
 
-## GPTs Link: https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor
+## Features
 
-## Core Features 🌟
-- **Personalized Learning**: Customized learning paths to fit individual needs and styles.
-- **Two Learning Modes**: Interactive assistance for both lecture material understanding and question sheet solving.
-- **Multilingual Support**: Offers services in English and Chinese.
-- **Adaptive Teaching Styles**: From teacher-centered to thought-provoking approaches.
-- **Customizable Tone**: Ranging from encouraging to knowledgeable.
+- **Lecture Notes Digest**: Utilizes a language processing model to generate organized and easy-to-understand lecture notes digests.
+- **Question Sheet Solutions**: Students can upload their question sheets to receive AI-generated step-by-step solutions and explanations.
+- **Q&A Bot**: An interactive bot that provides instant answers to students' queries.
 
-## Technology 🛠️
-- **Auto-Gen Personalization**: Advanced AI for supporting complex academic tasks.
-- **GPT-Powered Questions**: Tailored recommendations for efficient learning.
+## Installation
 
-## Personalization Options 🎨
-- **Language**: English | Chinese.
-- **Reading Level**: Elementary | Intermediate | Advanced.
-- **Grade Level**: Distinction | Merit | Pass.
-- **Teaching Style**: Teacher-Centered | Student-Centered | Thought-Provoking | Experiential.
-- **Tone**: Encouraging | Humorous | Clear | Patient | Knowledgeable | Understanding.
+To use AiTA, clone the repository and install the required dependencies.
 
-## Learning Modes 📚
-1. **Lecture Material Learning**: Dive deep into course content.
-2. **Question Sheet Solving**: Apply knowledge to real-world problems.
+```python
+git clone xl631212/aita_new_version
+cd xl631212/aita_new_version
+pip install -r requirements.txt
+```
 
-## Upload and Learn 📤
-- **Lecture Materials**: Upload and get tailored summaries and key points.
-- **Question Sheets**: Upload for personalized problem-solving sessions.
+## Usage
 
-## Level of Grade Explained 🏆
-- **Pass**: Basic understanding (50-59%).
-- **Merit**: Advanced comprehension (60-69%).
-- **Distinction**: Exceptional mastery (70%+).
+Run the Streamlit application locally:
 
-## Join the AiTA Learning Community Today! 🚀
-Start your personalized AI learning journey with AiTA and transform the way you study!
+```python
+streamlit run app.py
+```
+
+## Key Components
+
+- **Page Navigation**: Users can navigate between different functionalities like lecture materials digestion and question sheet solutions.
+- **File Uploading**: Supports uploading of lecture notes and question sheets in PDF format.
+- **Customizable Settings**: Allows users to select reading level, teaching style, language, and grade level for a personalized experience.
+- **AI-Driven Analysis**: Employs OpenAI's GPT-4 model to process and generate educational content.
+
+## Dependencies
+
+- Streamlit
+- OpenAI
+- pdfplumber
+- streamlit_chat
+
+## Environment Variables
+
+Set your OpenAI API key in the environment:
+
+```python
+export OPENAI_API_KEY='your_api_key'
+```
+
+## Contribution
+
+Contributions to AiTA are welcome! Please read the contribution guidelines before submitting pull requests.
+
+
+## Acknowledgments
+
+Special thanks to [Contributors and Supporters].
+
+---
+
+Made with ❤️ by XuyingLi
