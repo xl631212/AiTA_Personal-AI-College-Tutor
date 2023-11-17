@@ -15,8 +15,7 @@ def on_btn_click():
     del st.session_state.past[:]
     del st.session_state.generated[:]
 
-os.environ["OPENAI_API_KEY"] = 'sk-Hzurbmv9pkXmeVt3255b7a5e73674452BdEa0c2630Bd2f1a'
-openai.api_base = "https://one-api.myscale.cloud/v1"
+
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 
