@@ -5,6 +5,7 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 #### GPTs Link: https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor
 
 
+
 ## 🍀 GPTs Preview
 
 🐦 Follow me on Twitter: [@li_xuying](https://twitter.com/li_xuying)
@@ -21,7 +22,9 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 ## 🌟 Core Features
 
 - **Personalized Learning Experience**: Customized learning paths to fit individual needs and styles including language, reading level, current level of grade, teaching style, and tone of the teaching.
+
 - **Two Learning Scenarios Support**: Interactive assistance for both lecture material understanding📚 and question sheet solving📃 given the files the user uploads.
+
 - **Lecture Notes Digest**: Succinctly convert lecture materials into notes digest by
   - Offering summaries
   - Highlighting key concepts
@@ -29,6 +32,7 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
   - Gathering additional resources
   - Presenting illustrative examples
 all adapted to the student's academic level.
+
 - **Question Sheet Solutions**: Solve question sheets by
   - Marking difficulty levels
   - Identifying corresponding knowledge points
@@ -36,6 +40,7 @@ all adapted to the student's academic level.
 all tailored to the student's grade level.
 
 *📌 Notes: Encourage uploading both lecture materials📚 and question sheets📃, regardless of the learning scenario, to offer enhanced study guidance.*
+
 
 
 ## 🎨 Personalization Options
@@ -61,11 +66,16 @@ all tailored to the student's grade level.
 |   | Knowledgeable  | Enhance student learning by offering expert, in-depth explanations and analysis, supplemented with personal research and professional experiences. The tutor also motivates students to explore related topics and resources beyond the classroom, enriching their understanding of the subject.  |
 |   | Understanding  | Focus on providing empathy and compassionate support to students facing personal or academic challenges, ensuring a safe and inclusive learning environment where they can express themselves and access additional resources like academic counseling or mental health services.  |
 
+
+
 ## 🖥 Screen Recording Examples
+
 
 
 ## 📣 AiTA Web Version Coming Soon!
 ***
 
-Stay tuned! A web version is on the horizon and get ready for an upgraded experience. Keep an eye out for updates and code releases on the “web_version” branch.
+Stay tuned! A web version is on the horizon and get ready for an upgraded experience. 
+
+Keep an eye👀 out for updates and code releases on the “web_version” branch.
 
