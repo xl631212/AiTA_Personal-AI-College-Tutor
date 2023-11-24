@@ -73,7 +73,6 @@ all tailored to the student's grade level.
 
 
 ## 📣 AiTA Web Version Coming Soon!
-***
 
 Stay tuned✨! A web version is on the horizon and get ready for an upgraded experience. 
 
