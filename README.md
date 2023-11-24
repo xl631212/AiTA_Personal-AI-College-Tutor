@@ -40,8 +40,8 @@ all tailored to the student's grade level.
 
 ## 🎨 Personalization Options
 
-| Customization | Option | Description |
-| :------ | :-----: | ------: |
+|     | **Customization** | **Option** | **Description** |
+| :-----: | :-----: | :------ |
 | <td rowspan="2">🗣 Language</td>  | English  |   |
 | | Chinese  |   |
 | <td rowspan="3">📖 Reading Level</td>  | Elementary  | Targeting English learners🙇‍♀️, these students are familiar with basic vocabulary and phrases. They read at a speed of 100-150 words per minute, comfortably understanding simple stories, short essays, and articles that encompass everyday life and common topics.  |
