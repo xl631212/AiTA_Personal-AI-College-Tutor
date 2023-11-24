@@ -21,17 +21,14 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 
 ## 🌟 Core Features
 
-| **Command** |
-| :------ |
-| Configure options  |
-| Comprehend lecture materials  |
-| Solutions to the question sheets  |
+#### Commands
+- `Configure options`: Configure AI Tutor based on individual user preferences.
+- `Comprehend lecture materials`: Digest detailed lecture materials into easy-to-understand notes.
+- `Solutions to the question sheets`: Detailed and sequential guidance for solving problems in question sheets.
 
-- **Personalized Learning Experience**: Customized learning paths to fit individual needs and styles including language, reading level, current level of grade, teaching style, and tone of the teaching.
+- **🎨 Personalized Learning Experience**: Customized learning paths to fit individual needs and styles including language, reading level, current level of grade, teaching style, and tone of the teaching.
 
-- **Two Learning Scenarios Support**: Interactive assistance for both lecture material understanding📚 and question sheet solving📃 given the files the user uploads.
-
-- **Lecture Notes Digest**: Succinctly convert lecture materials into notes digest by
+- **📚 Lecture Notes Digest**: Succinctly convert lecture materials into notes digest by
   - Offering summaries
   - Highlighting key concepts
   - Providing tailored explanations
@@ -39,14 +36,11 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
   - Presenting illustrative examples
 all adapted to the student's academic level.
 
-- **Question Sheet Solutions**: Solve question sheets by
+- **📃 Question Sheet Solutions**: Solve question sheets by
   - Marking difficulty levels
   - Identifying corresponding knowledge points
   - Explaining problem-solving approaches
 all tailored to the student's grade level.
-
-*📌 Notes: Encourage uploading both lecture materials📚 and question sheets📃, regardless of the learning scenario, to offer enhanced study guidance.*
-
 
 
 ## 🎨 Personalization Options
