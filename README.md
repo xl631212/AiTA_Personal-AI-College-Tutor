@@ -10,7 +10,7 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 
 🐦 Follow me on Twitter: [@li_xuying](https://twitter.com/li_xuying)
 
-👾 Join our Discord community: [Ai-Daily News Community](https://discord.com/invite/aKkmnn4uWy)
+👾 Join our Discord community: (TBD)
 
 📮 Email: xuyingli.kepler@gmail.com
 
