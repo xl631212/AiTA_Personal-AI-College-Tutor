@@ -15,7 +15,7 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 📮 Email: xuyingli.kepler@gmail.com
 
 <p float="left">
-  < img src="images/app_review.png" width="100%" />
+  < img src="images/app_review.png" width="100%"/>
 </p >
 
 
