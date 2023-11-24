@@ -21,6 +21,12 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 
 ## 🌟 Core Features
 
+| **Command** |
+| :------ |
+| Configure options  |
+| Comprehend lecture materials  |
+| Solutions to the question sheets  |
+
 - **Personalized Learning Experience**: Customized learning paths to fit individual needs and styles including language, reading level, current level of grade, teaching style, and tone of the teaching.
 
 - **Two Learning Scenarios Support**: Interactive assistance for both lecture material understanding📚 and question sheet solving📃 given the files the user uploads.
