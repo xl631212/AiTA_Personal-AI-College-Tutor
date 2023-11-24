@@ -68,9 +68,13 @@ all tailored to the student's grade level.
 
 
 
-## 🖥 Screen Recording Examples
+## 🔎 Commands
 
+#### Configure options
 
+#### Comprehend the lecture materials
+
+#### Solutions to the question sheets
 
 ## 📣 AiTA Web Version Coming Soon!
 
