@@ -23,19 +23,19 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 - **Personalized Learning Experience**: Customized learning paths to fit individual needs and styles including language, reading level, current level of grade, teaching style, and tone of the teaching.
 - **Two Learning Scenarios Support**: Interactive assistance for both lecture material understanding📚 and question sheet solving📃 given the files the user uploads.
 - **Lecture Notes Digest**: Succinctly convert lecture materials into notes digest by
- - Offering summaries
- - Highlighting key concepts
- - Providing tailored explanations
- - Gathering additional resources
- - Presenting illustrative examples
+  - Offering summaries
+  - Highlighting key concepts
+  - Providing tailored explanations
+  - Gathering additional resources
+  - Presenting illustrative examples
 all adapted to the student's academic level.
 - **Question Sheet Solutions**: Solve question sheets by
- - Marking difficulty levels
- - Identifying corresponding knowledge points
- - Explaining problem-solving approaches
+  - Marking difficulty levels
+  - Identifying corresponding knowledge points
+  - Explaining problem-solving approaches
 all tailored to the student's grade level.
 
-*Notes: Encourage uploading both lecture materials📚 and question sheets📃, regardless of the learning scenario, to offer enhanced study guidance.*
+*📌 Notes: Encourage uploading both lecture materials📚 and question sheets📃, regardless of the learning scenario, to offer enhanced study guidance.*
 
 
 ## 🎨 Personalization Options
