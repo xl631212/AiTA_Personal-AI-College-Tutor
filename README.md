@@ -19,15 +19,16 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 </p >
 
 
-## 🌟 Core Features
-
-#### Commands
+## 🔧 Commands
 
 `Configure options`: Configure AI Tutor based on individual user preferences.
 
 `Comprehend lecture materials`: Digest detailed lecture materials into easy-to-understand notes.
 
 `Solutions to the question sheets`: Detailed and sequential guidance for solving problems in question sheets.
+
+
+## 🌟 Core Features
 
 - **🎨 Personalized Learning Experience**: Customized learning paths to fit individual needs and styles including language, reading level, current level of grade, teaching style, and tone of the teaching.
 
@@ -71,7 +72,7 @@ all tailored to the student's grade level.
 
 
 
-## 🔎 Screen Recording Examples
+## 📷 Screen Recording Examples
 
 #### Configure options
 
