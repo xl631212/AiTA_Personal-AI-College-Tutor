@@ -42,24 +42,24 @@ all tailored to the student's grade level.
 
 | **Customization** | **Option** | **Description** |
 | :-----: | :-----: | :------ |
-| <td rowspan="2">🗣 Language</td>  | English  |   |
-| | Chinese  |   |
-| <td rowspan="3">📖 Reading Level</td>  | Elementary  | Targeting English learners🙇‍♀️, these students are familiar with basic vocabulary and phrases. They read at a speed of 100-150 words per minute, comfortably understanding simple stories, short essays, and articles that encompass everyday life and common topics.  |
-| | Intermediate | Primarily targets students for whom English is a second language💁. They are proficient, using a broad vocabulary and varied expressions. Comfortably reading at a speed of 150-200 words per minute, they easily engage with a wide range of topics, including social issues and technological advancements.  |
-| | Advanced  | Targeting native English-speaking students🙋‍♀️, encompasses those with a penchant for complex, specialized vocabulary. These individuals possess a broad lexicon, comfortably reading at a speed of 200-300 words per minute. They find ease in navigating through academic papers, professional literature, and intricate social issues.  |
-| <td rowspan="3">📈 Current Level of Grade</td>  | Pass  | This category is awarded to students who achieve a grade of 💫50-59%.  |
-| | Merit  | This category is awarded to students who achieve a grade of ✨60-69%.  |
-| | Distinction  | This is the highest category and is awarded to students who achieve a grade of 🌟70% or higher.  |
-| <td rowspan="4">🌈 Teaching Style of the Tutor</td>  | Teacher-centered👩‍🏫 style  | Primarily deliver knowledge through detailed explanations. Students engage in a receptive learning mode, absorbing information presented by the tutor.  |
-| | Students-centered🧑‍🎓 style  | Adopt an interactive teaching style, encouraging student participation in the learning process. This is achieved through engaging methods such as posing questions, facilitating discussions, and role-playing exercises.  |
-| | Thought-provoking🧠  | A teaching style that sparks curiosity and exploration in students, nurturing their creativity and critical thinking skills. Through thought-provoking dialogue, it challenges learners to think deeply and innovatively.  |
-| | Experimental learning🙌  | This teaching style focuses on hands-on experiences and real-world applications of knowledge, allowing students to apply what they have learned in a practical context.  |
-| <td rowspan="6">💬 Tone of the Conversatiom</td>  | Encouraging  | Enables the tutor to inspire students by sending motivational messages, sharing personal stories of overcoming challenges, and offering positive, specific feedback to acknowledge their progress.  |
-| | Humorous  | Leverage humor in education, using witty analogies, memes, and jokes to simplify complex concepts and make learning more engaging and memorable for students.  |
-| | Clear  | Simplify complex concepts into clear, easily understandable terms with real-world examples, and encourage interactive learning through question and clarification.  |
-| | Patient  | Emphasize providing attentive, detailed responses to students' inquiries, offering additional support for those struggling, and ensuring a paced learning environment that accommodates individual needs.  |
-| | Knowledgeable  | Enhance student learning by offering expert, in-depth explanations and analysis, supplemented with personal research and professional experiences. The tutor also motivates students to explore related topics and resources beyond the classroom, enriching their understanding of the subject.  |
-| | Understanding  | Focus on providing empathy and compassionate support to students facing personal or academic challenges, ensuring a safe and inclusive learning environment where they can express themselves and access additional resources like academic counseling or mental health services.  |
+| Language  | English  |   |
+| Language  | Chinese  |   |
+| 📖 Reading Level  | Elementary  | Targeting English learners🙇‍♀️, these students are familiar with basic vocabulary and phrases. They read at a speed of 100-150 words per minute, comfortably understanding simple stories, short essays, and articles that encompass everyday life and common topics.  |
+| 📖 Reading Level  | Intermediate | Primarily targets students for whom English is a second language💁. They are proficient, using a broad vocabulary and varied expressions. Comfortably reading at a speed of 150-200 words per minute, they easily engage with a wide range of topics, including social issues and technological advancements.  |
+| 📖 Reading Level  | Advanced  | Targeting native English-speaking students🙋‍♀️, encompasses those with a penchant for complex, specialized vocabulary. These individuals possess a broad lexicon, comfortably reading at a speed of 200-300 words per minute. They find ease in navigating through academic papers, professional literature, and intricate social issues.  |
+| 📈 Current Level of Grade  | Pass  | This category is awarded to students who achieve a grade of 💫50-59%.  |
+| 📈 Current Level of Grade  | Merit  | This category is awarded to students who achieve a grade of ✨60-69%.  |
+| 📈 Current Level of Grade  | Distinction  | This is the highest category and is awarded to students who achieve a grade of 🌟70% or higher.  |
+| 🌈 Teaching Style of the Tutor  | 👩‍🏫 Teacher-centered style  | Primarily deliver knowledge through detailed explanations. Students engage in a receptive learning mode, absorbing information presented by the tutor.  |
+| 🌈 Teaching Style of the Tutor  | 🧑‍🎓 Students-centered style  | Adopt an interactive teaching style, encouraging student participation in the learning process. This is achieved through engaging methods such as posing questions, facilitating discussions, and role-playing exercises.  |
+| 🌈 Teaching Style of the Tutor  | 🧠 Thought-provoking  | A teaching style that sparks curiosity and exploration in students, nurturing their creativity and critical thinking skills. Through thought-provoking dialogue, it challenges learners to think deeply and innovatively.  |
+| 🌈 Teaching Style of the Tutor  | 🙌 Experimental learning  | This teaching style focuses on hands-on experiences and real-world applications of knowledge, allowing students to apply what they have learned in a practical context.  |
+| 💬 Tone of the Conversation  | Encouraging  | Enables the tutor to inspire students by sending motivational messages, sharing personal stories of overcoming challenges, and offering positive, specific feedback to acknowledge their progress.  |
+| 💬 Tone of the Conversation  | Humorous  | Leverage humor in education, using witty analogies, memes, and jokes to simplify complex concepts and make learning more engaging and memorable for students.  |
+| 💬 Tone of the Conversation  | Clear  | Simplify complex concepts into clear, easily understandable terms with real-world examples, and encourage interactive learning through question and clarification.  |
+| 💬 Tone of the Conversation  | Patient  | Emphasize providing attentive, detailed responses to students' inquiries, offering additional support for those struggling, and ensuring a paced learning environment that accommodates individual needs.  |
+| 💬 Tone of the Conversation  | Knowledgeable  | Enhance student learning by offering expert, in-depth explanations and analysis, supplemented with personal research and professional experiences. The tutor also motivates students to explore related topics and resources beyond the classroom, enriching their understanding of the subject.  |
+| 💬 Tone of the Conversation  | Understanding  | Focus on providing empathy and compassionate support to students facing personal or academic challenges, ensuring a safe and inclusive learning environment where they can express themselves and access additional resources like academic counseling or mental health services.  |
 
 ## 🖥 Screen Recording Examples
 
