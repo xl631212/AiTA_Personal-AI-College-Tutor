@@ -2,7 +2,7 @@
 
 AITA delivers customized learning experiences, tailored to meet the diverse needs🎨 of college students. It assists in ***comprehending lecture materials📚*** with ease and provides ***step-by-step solutions to question sheets📃***.
 
-#### GPTs Link: https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor
+#### GPTs Link: https://chat.openai.com/g/g-ikoYokxKr-aita-personal-ai-college-tutor
 
 
 
