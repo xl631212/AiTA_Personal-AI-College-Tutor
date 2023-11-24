@@ -40,7 +40,7 @@ all tailored to the student's grade level.
 
 ## 🎨 Personalization Options
 
-|     | **Customization** | **Option** | **Description** |
+| **Customization** | **Option** | **Description** |
 | :-----: | :-----: | :------ |
 | <td rowspan="2">🗣 Language</td>  | English  |   |
 | | Chinese  |   |
