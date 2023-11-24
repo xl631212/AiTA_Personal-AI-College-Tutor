@@ -15,7 +15,7 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 📮 Email: xuyingli.kepler@gmail.com
 
 <p float="left">
-  < img src="images/截屏2023-11-21 17.05.47.png" width="100%" />
+  < img src="images/app_review.png" width="100%" />
 </p >
 
 
@@ -72,7 +72,7 @@ all tailored to the student's grade level.
 
 #### Configure options
 
-#### Comprehend the lecture materials
+#### Comprehend lecture materials
 
 #### Solutions to the question sheets
 
