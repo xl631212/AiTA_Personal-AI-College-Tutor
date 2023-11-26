@@ -75,10 +75,11 @@ all tailored to the student's grade level.
 ## 📷 Screen Recording Examples
 
 #### Configure options
-
+![Configure options](/images/config.gif)
 #### Comprehend lecture materials
-
+![Comprehend the lecture materials](/images/lecture_materails.gif)
 #### Solutions to the question sheets
+![Solutions to the question sheets](/images/question_sheets.gif)
 
 ## 📣 AiTA Web Version Coming Soon!
 
