@@ -77,7 +77,7 @@ all tailored to the student's grade level.
 #### Configure options
 ![Configure options](/images/config.gif)
 #### Comprehend lecture materials
-![Comprehend the lecture materials](/images/lecture_materails.gif)
+![Comprehend the lecture materials](/images/lecture_materials.gif)
 #### Solutions to the question sheets
 ![Solutions to the question sheets](/images/question_sheets.gif)
 
