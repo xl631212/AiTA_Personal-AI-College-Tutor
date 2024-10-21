@@ -8,11 +8,9 @@ AITA delivers customized learning experiences, tailored to meet the diverse need
 
 ## 🍀 GPTs Preview
 
-🐦 Follow me on Twitter: [@li_xuying](https://twitter.com/li_xuying)
-
 👾 Join our Discord community: (TBD)
 
-📮 Email: xuyingli.kepler@gmail.com
+📮 Email: piaosally@gmail.com
 
 <p float="left">
   <img src="images/app_review.png" width="100%"/>
